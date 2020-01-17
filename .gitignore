@@ -1,0 +1,11 @@
+# Node
+node_modules
+target/
+*.log
+package-lock.json
+.DS_Store
+
+# Build artifacts
+.nyc_output
+lib
+staging
